@@ -37,3 +37,4 @@ Best Practices
 <li> https://www.iobit.com/en/knowledge-how-to-prevent-wannacry-attacks-22.php </li>
 <li> https://www.networkworld.com/article/3196818/what-to-do-about-wannacry-if-you-re-infected-or-if-you-re-not.html </li>
 <li> https://www.cnbc.com/2017/05/15/ransomware-wanncry-virus-what-to-do-to-protect.html </li>
+<li> See PDF file </li>
