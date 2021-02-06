@@ -28,7 +28,7 @@ Eternal Blue Links
 <li> https://www.avast.com/c-eternalblue#:~:text=EternalBlue%20exploits%20SMBv1%20vulnerabilities%20to,crafted%20packets%20from%20malicious%20attackers.</li>
 <li> https://en.wikipedia.org/wiki/EternalBlue </li>
 
-How to prevent Ransomware
+Best Practices
 
 <li> https://success.trendmicro.com/solution/1117391-preventing-wannacry-wcry-ransomware-attacks-using-trend-micro-products </li>
 <li> https://www.nexusitc.net/9-tips-to-stop-wanna-cry-ransomware/ </li>
