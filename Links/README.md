@@ -1,3 +1,6 @@
+Final Presentation
+https://youtu.be/Yw8wltEfX8I
+
 Ransomware Links
 <li> https://portswigger.net/daily-swig/hackers-demand-34-7-million-in-bitcoin-after-ransomware-attack-on-foxconn </li>
 <li> https://portswigger.net/daily-swig/network-hacking-and-ransomware-fueling-global-cybercrime-surge </li>
